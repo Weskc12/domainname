@@ -21,6 +21,6 @@ window.onload = function() {
       }
     }
   }
+  console.log(domainGen);
   return;
 };
-console.log(domainGen);
